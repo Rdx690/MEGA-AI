@@ -42,7 +42,7 @@ global.keysneoxrrr = ['5VC9rvNx', 'cfALv5']
 global.keysneoxr = keysneoxrrr[Math.floor(keysneoxrrr.length * Math.random())]
 global.lolkeysapi = ['GataDios']
 
-global.canal = 'https://whatsapp.com/channel/0029VagJIAr3bbVBCpEkAM07'
+global.canal = 'https://whatsapp.com/channel/0029VajG35y0AgWEf2obfx3g'
 
 
 global.APIs = {
@@ -74,14 +74,14 @@ global.APIKeys = {
 // Sticker WM
 global.premium = 'true'
 global.packname = 'SOURAJIT-AI'
-global.author = 'GlobalTechInfo'
-global.menuvid = 'https://i.imgur.com/2U2K9YA.mp4'
-global.igfg = ' Follow on Instagram\nhttps://www.instagram.com/global.techinfo'
-global.dygp = 'https://whatsapp.com/channel/0029VagJIAr3bbVBCpEkAM07'
-global.fgsc = 'https://github.com/GlobalTechInfo/MEGA-AI'
-global.fgyt = 'https://youtube.com/@GlobalTechInfo'
-global.fgpyp = 'https://youtube.com/@GlobalTechInfo'
-global.fglog = 'https://i.ibb.co/G2dh9cB/qasim.jpg'
+global.author = '◄⏤͟͞➸⃝❥͜͡𝑆𝛩𝑈𝑅𝛥𝐽𝛪𝑇➸⃝⚡Info'
+global.menuvid = 'https://files.catbox.moe/4w8jkd.jpeg'
+global.igfg = ' Follow on Instagram\nhttps://www.instagram.com/instergram19user'
+global.dygp = 'https://https://whatsapp.com/channel/0029VajG35y0AgWEf2obfx3g'
+global.fgsc = 'https://github.com/rdx690/MEGA-AI'
+global.fgyt = 'https://youtube.com/@SAYANCREATE_1'
+global.fgpyp = 'https://youtube.com/@SAYANCREATE_1'
+global.fglog = 'https://files.catbox.moe/4w8jkd.jpeg'
 global.thumb = fs.readFileSync('./assets/A.jpg')
 
 global.wait = '⏳'
